@@ -8,18 +8,39 @@ I'm a passionate and creative AI developer with hands-on experience in machine l
 
 ## 🧠 Skills & Technologies
 
-**Languages & Frameworks:**  
-Python | PyTorch | TensorFlow | FastAPI | Streamlit | OpenCV | YOLOv8 | LangChain | MediaPipe
+**Languages:**  
+Python | C++ | Arduino
+
+**AI & Data Science Libraries:**  
+PyTorch | TensorFlow | Keras | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | Plotly
+
+**Frameworks & Tools:**  
+FastAPI | Streamlit | Gradio | LangChain | OpenCV | MediaPipe | YOLOv8 | HuggingFace | Git | Linux
 
 **AI Domains:**  
-- 🧬 Deep Learning (CNN, RNN, Transformers, ViT)  
-- 📊 Machine Learning & Data Science  
-- 👁 Computer Vision (Object Detection, Image Classification, Image Embeddings)  
-- 🧠 NLP & LLMs (GPT, RAG, Prompt Engineering)  
-- 🎙️ Audio Processing (Voice to Text, Emotion Detection)
+**AI Domains:**  
+- 🧬 Deep Learning: CNN, RNN, LSTM, Transformers, Vision Transformers (ViT), Transfer Learning (ResNet, VGG)  
+- 📊 Machine Learning & Data Science: Supervised/Unsupervised Learning, Feature Engineering, EDA, Model Evaluation  
+- 👁️ Computer Vision: Object Detection (YOLO), Pose & Gesture Tracking (MediaPipe), Image Classification, Embedding-based Retrieval  
+- 🧠 Natural Language Processing & LLMs: Text Classification, Summarization, Prompt Engineering, RAG (LangChain, LlamaIndex), GPT-based Assistants
 
-**Tools & Platforms:**  
-Git | Linux | Conda | VS Code | Google Colab | HuggingFace | Gradio | REST APIs
+**Embedded Systems & IoT:**  
+Arduino, ESP32, ESP8266, Nano BLE 33, Edge ML, Proteus, CodeVision AVR  
+
+**Soft Skills:**  
+Creative Thinking | Problem Solving | Public Speaking | Leadership | Teaching
+
+
+---
+
+## 🏆 Highlights
+
+- 👨‍🏫 **Instructor & Mentor**: Taught 1000+ students through bootcamps and university courses in AI, Python, and IoT  
+- 🧠 **Inventor**:  
+  - 🥇 *Gold Medal (IFIA 2024)* – Hand Gesture AI Lighting System  
+  - 🥈 *Silver Medal (IFIA 2023)* – Assistive Slipper Device for Patients  
+- 📦 **Freelancer**: Delivered AI solutions in healthcare, smart automation, image recognition, and chatbot development  
+- 🧩 **Business-Aware Engineer**: Skilled in building products that combine deep tech with user-centric design
 
 ---
 
@@ -32,15 +53,18 @@ Git | Linux | Conda | VS Code | Google Colab | HuggingFace | Gradio | REST APIs
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- Build clean, usable, and deployable AI solutions  
-- Contribute to open-source AI projects  
-- Create a personal brand around AI creativity and education
-
+- Designing and delivering **real-world AI solutions** with practical impact  
+- Collaborating on **AI-powered products** that solve meaningful problems  
+- Exploring the intersection of **LLMs, Computer Vision, and Automation**  
+- Sharing knowledge through open-source and educational content  
+- Engaging in challenging, cross-functional projects with innovation at the core
 ---
 
 ## 🤝 Let's Connect
 
-📫 Email: kiarash_ndi@gmail.com 
-🌐 [LinkedIn](https://www.linkedin.com/in/kiarashnaderi)  
+📫 **Email:** kiarash.ndi@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/kiarash-naderi99](https://linkedin.com/in/kiarash-naderi99)  
+📹 **YouTube:** [@kiatechacademy](https://www.youtube.com/@kiatechacademy)  
+💻 **GitHub:** [github.com/KiarashNaderi](https://github.com/KiarashNaderi)
