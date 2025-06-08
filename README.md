@@ -42,5 +42,5 @@ Git | Linux | Conda | VS Code | Google Colab | HuggingFace | Gradio | REST APIs
 
 ## 🤝 Let's Connect
 
-📫 Email: your_email@example.com  
+📫 Email: kiarash_ndi@gmail.com 
 🌐 [LinkedIn](https://www.linkedin.com/in/kiarashnaderi)  
