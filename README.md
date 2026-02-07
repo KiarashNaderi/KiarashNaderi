@@ -83,8 +83,8 @@ Creative Thinking | Problem Solving | Leadership | Public Speaking | Teaching | 
 ## 📫 Contact Me
 
 - Email: **kiarash.ndi@gmail.com**  
-- LinkedIn: [Kiarash Naderi](https://www.linkedin.com/in/kiarashnaderi)  
-- Portfolio / GitHub: [GitHub](https://github.com/yourusername)  
+- LinkedIn: [Kiarash Naderi](https://www.linkedin.com/in/kiarash-naderi99/)  
+- Portfolio / GitHub: [GitHub]((https://github.com/KiarashNaderi))  
 
 ---
 
