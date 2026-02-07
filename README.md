@@ -1,71 +1,85 @@
-# 👋 Hi there, I'm Kiarash Naderi
-Founder and CEO of Kiatechacademy
+# Hi there, I'm Kiarash Naderi 👋
+**Founder & CEO of Kiatech Academy**  
 
-🎓 **AI Engineer | Educator | Innovator**
+🎓 **AI Engineer | Product Strategist | Innovator | Educator**  
 
-I'm a passionate and creative AI Engineer with hands-on experience in machine learning, computer vision, NLP, and deep learning. I love building practical and intelligent systems that solve real-world problems.
+I’m a passionate AI Engineer and Product-focused professional building **real-world AI products and intelligent systems**, with hands-on expertise in **Machine Learning, Deep Learning, NLP, Computer Vision, RAG, Agentic AI, and Automation**. I combine **technical skills with product management** to design, deliver, and scale impactful AI solutions.
 
 ---
 
 ## 🧠 Skills & Technologies
 
 **Languages:**  
-Python | C++ | Arduino
+Python | C++ | Arduino | SQL  
 
 **AI & Data Science Libraries:**  
-PyTorch | TensorFlow | Keras | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | Plotly
+PyTorch | TensorFlow | Keras | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | Plotly  
 
 **Frameworks & Tools:**  
-FastAPI | Streamlit | Gradio | LangChain | OpenCV | MediaPipe | YOLOv8 | HuggingFace | Git | Linux
+FastAPI | Streamlit | Gradio | OpenCV | MediaPipe | YOLOv8 | HuggingFace | Git | Linux  
+
+**Agentic AI & Automation:**  
+- **Frameworks & RAG:** LangChain, LlamaIndex (RAG), GPT-based Agents  
+- **Workflow Automation:** n8n, Make, Zapier, Supabase  
+- **Orchestration:** Multi-step AI Agents, Task Automation, Decision-making AI Systems  
+
+**Product Management & Collaboration Tools:**  
+- ClickUp | Trello | Fibery | Jira | Roadmap Planning | Feature Prioritization | Agile Development | Stakeholder Management  
+- Translating technical AI concepts into actionable product strategies and workflows  
 
 **AI Domains:**  
-**AI Domains:**  
-- 🧬 Deep Learning: CNN, RNN, LSTM, Transformers, Vision Transformers (ViT), Transfer Learning (ResNet, VGG)  
-- 📊 Machine Learning & Data Science: Supervised/Unsupervised Learning, Feature Engineering, EDA, Model Evaluation  
-- 👁️ Computer Vision: Object Detection (YOLO), Pose & Gesture Tracking (MediaPipe), Image Classification, Embedding-based Retrieval  
-- 🧠 Natural Language Processing & LLMs: Text Classification, Summarization, Prompt Engineering, RAG (LangChain, LlamaIndex), GPT-based Assistants
+- **Deep Learning:** CNN, RNN, LSTM, Transformers, Vision Transformers (ViT), Transfer Learning (ResNet, VGG)  
+- **Machine Learning & Data Science:** Supervised & Unsupervised Learning, Feature Engineering, EDA, Model Evaluation  
+- **Computer Vision:** Object Detection (YOLO), Pose & Gesture Tracking (MediaPipe), Image Classification, Embedding-based Retrieval  
+- **NLP & LLMs:** Text Classification, Summarization, Prompt Engineering, RAG Systems, GPT-based Assistants  
 
 **Embedded Systems & IoT:**  
 Arduino, ESP32, ESP8266, Nano BLE 33, Edge ML, Proteus, CodeVision AVR  
 
 **Soft Skills:**  
-Creative Thinking | Problem Solving | Public Speaking | Leadership | Teaching
-
-
----
-
-## 🏆 Highlights
-
-- 👨‍🏫 **Instructor & Mentor**: Taught 1000+ students through bootcamps and university courses in AI, Python, and IoT  
-- 🧠 **Inventor**:  
-  - 🥇 *Gold Medal (IFIA 2024)* – Hand Gesture AI Lighting System  
-  - 🥈 *Silver Medal (IFIA 2023)* – Assistive Slipper Device for Patients  
-- 📦 **Freelancer**: Delivered AI solutions in healthcare, smart automation, image recognition, and chatbot development  
-- 🧩 **Business-Aware Engineer**: Skilled in building products that combine deep tech with user-centric design
+Creative Thinking | Problem Solving | Leadership | Public Speaking | Teaching | Product Strategy  
 
 ---
 
-## 🚀 What I Do
+## 🏆 Highlights & Achievements
 
-- 📚 Taught multiple **AI & programming courses** to over 100+ learners  
-- 🛠 Delivered various **freelance AI projects** including smart assistants, image-based systems, and predictive tools  
-- 💡 Holder of an **AI-related invention**, always experimenting with new ideas  
-- 🧩 Strong **business mindset**, with a focus on building AI tools that create **value, not just code**
+- 👨‍🏫 **Instructor & Mentor:** Educated **1000+ students** through bootcamps, university courses, and workshops in AI, Python, and IoT  
+- 🧠 **Inventor & Innovator:**  
+  - 🥇 Gold Medal (IFIA 2024) – Hand Gesture AI Lighting System  
+  - 🥈 Silver Medal (IFIA 2023) – Assistive Slipper Device for Patients  
+- 📦 **Freelance AI Projects:** Delivered solutions in **healthcare, smart automation, image recognition, chatbots, and AI agents**  
+- 🧩 **Business & Product-aware Engineer:** Skilled in **building AI products combining technical excellence with user-centric design**  
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Current Focus
 
-- Designing and delivering **real-world AI solutions** with practical impact  
-- Collaborating on **AI-powered products** that solve meaningful problems  
-- Exploring the intersection of **LLMs, Computer Vision, and Automation**  
-- Sharing knowledge through open-source and educational content  
-- Engaging in challenging, cross-functional projects with innovation at the core
+- Designing and delivering **deployable AI solutions with measurable impact**  
+- Building **Agentic AI systems and workflow-driven automation**  
+- Managing **AI product lifecycles**, from ideation and roadmap planning to execution and iteration  
+- Exploring intersections of **LLMs, Computer Vision, and Intelligent Agents**  
+- Sharing knowledge through **open-source projects and educational content**  
+- Engaging in **cross-functional, innovation-driven AI projects**  
+
 ---
 
-## 🤝 Let's Connect
+## 📂 Selected Projects
 
-📫 **Email:** kiarash.ndi@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/kiarash-naderi99](https://linkedin.com/in/kiarash-naderi99)  
-📹 **YouTube:** [@kiatechacademy](https://www.youtube.com/@kiatechacademy)  
-💻 **GitHub:** [github.com/KiarashNaderi](https://github.com/KiarashNaderi)
+- **RAG-powered AI Assistant** – Retrieval-Augmented GPT Agent using LangChain & LlamaIndex  
+- **Workflow Automation System** – Multi-platform AI automation pipelines with n8n & Make  
+- **Computer Vision Projects** – Object detection, pose tracking, gesture recognition with YOLOv8 & MediaPipe  
+- **Generative AI Tools** – Text summarization, content generation, AI-assisted solutions  
+
+---
+
+## 📫 Contact Me
+
+- Email: **kiarash.ndi@gmail.com**  
+- LinkedIn: [Kiarash Naderi](https://www.linkedin.com/in/kiarashnaderi)  
+- Portfolio / GitHub: [GitHub](https://github.com/yourusername)  
+
+---
+
+## 📊 GitHub Stats & Badges
+![Kiarash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
