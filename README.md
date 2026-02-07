@@ -16,7 +16,7 @@ Python | C++ | Arduino | SQL
 PyTorch | TensorFlow | Keras | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | Plotly  
 
 **Frameworks & Tools:**  
-FastAPI | Streamlit | Gradio | OpenCV | MediaPipe | YOLOv8 | HuggingFace | Git | Linux  
+FastAPI | Streamlit | Gradio | OpenCV | MediaPipe | YOLO | HuggingFace | Git 
 
 **Agentic AI & Automation:**  
 - **Frameworks & RAG:** LangChain, LlamaIndex (RAG), GPT-based Agents  
@@ -24,7 +24,7 @@ FastAPI | Streamlit | Gradio | OpenCV | MediaPipe | YOLOv8 | HuggingFace | Git |
 - **Orchestration:** Multi-step AI Agents, Task Automation, Decision-making AI Systems  
 
 **Product Management & Collaboration Tools:**  
-- ClickUp | Trello | Fibery | Jira | Roadmap Planning | Feature Prioritization | Agile Development | Stakeholder Management  
+- ClickUp | Trello | Fibery |  Roadmap Planning | Agile Development 
 - Translating technical AI concepts into actionable product strategies and workflows  
 
 **AI Domains:**  
